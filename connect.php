@@ -10,7 +10,7 @@ if($conn == true){
     #echo "connection ok";
 }
 else{
-    echo "connection failed";
+    echo "connection terminated ";
 }
 
 
